@@ -58,9 +58,9 @@ class HomeUi extends StatelessWidget {
                   onPressed: () {},
                   child: Text(
                     'LOGIN',
-                  ),
-                  style: TextStyle(
-                    color: Colors.black,
+                    style: TextStyle(
+                      color: Colors.black,
+                    ),
                   ),
                   style: OutlinedButton.styleFrom(
                     fixedSize: Size(
