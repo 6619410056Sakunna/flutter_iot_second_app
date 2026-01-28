@@ -82,6 +82,9 @@ class _SingninUIState extends State<SingninUI> {
                     ),
                   ),
                 ),
+                SizedBox(
+                  height: 15.0,
+                ),
                 TextField(
                   obscureText: true,
                   decoration: InputDecoration(

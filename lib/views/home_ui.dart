@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_iot_second_app/views/signin_ui.dart';
+import 'package:flutter_iot_second_app/views/signup_ui.dart';
 
 class HomeUi extends StatelessWidget {
   const HomeUi({super.key});
@@ -88,7 +89,7 @@ class HomeUi extends StatelessWidget {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => SingninUI(),
+                        builder: (context) => SignupUi(),
                       ),
                     );
                   },
