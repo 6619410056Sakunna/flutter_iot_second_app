@@ -3,8 +3,9 @@
 ## UI Only for HomeUi, SigninUi, SignupUi
 
 
-<img width="391" height="803" alt="01 1" src="https://github.com/user-attachments/assets/1b93785f-efca-4afa-b4aa-6702c7d28800" />
 
-<img width="396" height="804" alt="02 1" src="https://github.com/user-attachments/assets/4dc11195-3505-4e22-8e2d-03d3963f3c8d" />
+<img width="1170" height="2532" alt="01" src="https://github.com/user-attachments/assets/465be967-4af0-417c-b680-2a1c42ab88de" />
 
-<img width="392" height="804" alt="03 1" src="https://github.com/user-attachments/assets/754b43c8-9c85-4424-8f9d-7a5e8ac105a4" />
+<img width="1170" height="2532" alt="02" src="https://github.com/user-attachments/assets/0c46dafc-1311-45b6-830e-fa6694bcf4e7" />
+
+<img width="1290" height="2796" alt="03" src="https://github.com/user-attachments/assets/ff9e439f-aeee-4df8-b10c-e6293c023c61" />
